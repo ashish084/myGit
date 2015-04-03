@@ -1,0 +1,60 @@
+hi team
+ We need to discuss about the requirements more specifically related to our project
+  Intially we need to design the master page for our project which will be included in every page
+  We would be having pages according to our respective modules like 
+
+
+
+In that we will have registration page, login page, share quote page, buy and sell page. 
+  
+let discuss about registration page so, that it will be easy so we can complete registration process.
+GUI should be user friendly.Whenever new user visit the system he should easily understand.
+what shall we add in registration page 
+username
+password
+first name and last name
+address, 
+date of birth 
+email address and password 
+and mobile number. 
+there will be a submit button and details would be submitted to the admin
+then what shall we design the next page
+it is the login page where the user enter's his credentials and logs in 
+in this page he can see his total balance in his account wherein he can see whether he can  purchase the share or not
+if he needs to check the prices of various shares then he can click on the share quote page
+and check the prices of various shares the various companies
+There is a buy and sell button on the page on which we can click and perform the transaction.
+
+One more crucial page is the buy sell page int this page we will be having details of all companies and their stock rates it will be represented in the form of grid view and there would be respective buy and sell buttons at that particular stock rate
+
+then work more on the requirements..  
+that's fine today..
+Ok.
+
+date 03/26/2015
+We need to make the flow of all the pages and the application in such a way that it should be user-friendly.  All the pages are very simple and must be easy to understand. it should retrieve the user data from the server very vastly and efficiently
+
+
+hardware and  software requirements...
+i suggest the front end to be Microsoft Visual Studio 2010/12
+and back end as microsoft sql server 2008
+
+
+it should also have the performance requirements so that the 
+the system should be able to interface with the existing system and
+the system should be accurate
+ok let's go with .net as front end and the editor will be edit plus.
+and we require a database for it..
+who are good in database..
+
+thats great ashish we need  to focus on performance requirements
+i have some idea about the database design
+thats good enough..
+
+we will implement  flow diagrams and the uml diagrams and functional dependencies
+that will make more feasible to understand database.
+that's good
+Ok we had discussed a lot of things now we will focus on respective implementation
+ok bye we will again have discussion ashish and vamshi
+i am leaving for today ..bye vamshi and ramakanth
+
